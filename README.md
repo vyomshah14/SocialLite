@@ -2,6 +2,10 @@
 
 A modern, responsive, and feature-rich social media lite application built with React, Vite, and Tailwind CSS.
 
+### 🌐 Live Demo
+[https://social-lite-yjmg.vercel.app/](https://social-lite-yjmg.vercel.app/)
+
+
 ## 🌟 Features
 
 - **Dynamic Feed:** A fully interactive feed with a sleek UI to view the latest posts.
